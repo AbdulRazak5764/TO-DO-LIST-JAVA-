@@ -126,6 +126,6 @@ This project helped strengthen my object-oriented programming skills and enhance
 \`\`\`
 
 ---
-**Developed by**: [Your Name]  
+**Developed by**: Shaik Abdul Razak  
 **Internship**: VaultofCodes  
 **Technology**: Java, ArrayList, HashMap, OOP
